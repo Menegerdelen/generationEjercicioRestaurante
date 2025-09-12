@@ -71,10 +71,3 @@ Al completar este proyecto, demostrarás competencia en:
 
 ---
 
-<div align="center">
-
-### 🌟 ¡Dale una estrella si te gustó el proyecto! ⭐
-
-**[⬆️ Volver arriba](#-landing-page-de-restaurante)**
-
-</div>
