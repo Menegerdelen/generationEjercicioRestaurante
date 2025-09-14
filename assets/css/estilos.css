@@ -1,4 +1,5 @@
-
+/* fuentes */
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 
 
 body {
@@ -6,4 +7,63 @@ body {
     min-height: 100dvh;
     grid-template-rows: auto 1fr auto;
 
+}
+
+#tituloNav{
+    font: 3rem 'Lobster';
+}
+
+/* hero */
+#heroSection{
+    width: 100%;
+    height: auto;
+    background: red;
+}
+
+#textoHero{
+    h1{
+        font-size: 5rem;
+    }
+    h2{
+        font-size: 3rem;
+    }
+    .btn-warning{
+        background-color: #FBB201;
+    }
+}
+
+/* seccion cards */
+.contenedorCards{
+    margin-bottom: 8rem;
+}
+.card{
+    border-radius:  1.5rem 1.5rem 8rem 8rem;
+    background-color: #CC0406;
+    h5{
+        font-size: 2.5rem;
+    }
+}
+.imgCard{
+    width: 16rem;
+    margin-top: 10rem ;
+
+}
+
+/* formuulario */
+.seccionFormulario{
+    background-color: #CC0406;
+}
+.btnReservar{
+    color: #CC0406;
+}
+
+
+/* footer */
+footer{
+    background-color: #01803E;
+    
+    #tiktok, #facebook, #instagram, #youtube{
+        width: 5rem;
+        fill: white
+    }
 }
